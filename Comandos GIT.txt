@@ -1,0 +1,9 @@
+git status
+
+git add .
+
+git commit  -m "copiei pasta"
+
+git push
+
+git pull (trazer da nuvem)
