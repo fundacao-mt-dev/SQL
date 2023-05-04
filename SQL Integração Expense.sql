@@ -13,9 +13,9 @@ update PR1010
 set PR1_IDREL = '3374644A'
 where PR1_IDREL = '3374644'
 
-update PR1010
-set PR1_STINT = 'I'
-where PR1_IDREL IN ('3416782')
+--update PR1010
+--set PR1_STINT = 'I'
+--where PR1_IDREL IN ('3416782')
 
 
 select * from PR1010
